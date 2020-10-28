@@ -1,0 +1,5 @@
+C:\Users\Carlos Cobos\Documents\Actual\IHSK\2009-10-04 Aplicacion - MBAG-K  []\GeneralMatrix\bin\Debug\GeneralMatrix.dll
+C:\Users\Carlos Cobos\Documents\Actual\IHSK\2009-10-04 Aplicacion - MBAG-K  []\GeneralMatrix\bin\Debug\GeneralMatrix.pdb
+C:\Users\Carlos Cobos\Documents\Actual\IHSK\2009-10-04 Aplicacion - MBAG-K  []\GeneralMatrix\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Carlos Cobos\Documents\Actual\IHSK\2009-10-04 Aplicacion - MBAG-K  []\GeneralMatrix\obj\Debug\GeneralMatrix.dll
+C:\Users\Carlos Cobos\Documents\Actual\IHSK\2009-10-04 Aplicacion - MBAG-K  []\GeneralMatrix\obj\Debug\GeneralMatrix.pdb

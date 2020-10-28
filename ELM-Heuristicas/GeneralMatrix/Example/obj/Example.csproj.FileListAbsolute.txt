@@ -1,0 +1,14 @@
+C:\usuarios\ccobos\Proyectos\2008-doctorado-UNAL\Algebra-Lineal\GeneralMatrix\Example\obj\Debug\ResolveAssemblyReference.cache
+C:\usuarios\ccobos\Proyectos\2008-doctorado-UNAL\Algebra-Lineal\GeneralMatrix\Example\bin\Debug\Example.exe
+C:\usuarios\ccobos\Proyectos\2008-doctorado-UNAL\Algebra-Lineal\GeneralMatrix\Example\bin\Debug\Example.pdb
+C:\usuarios\ccobos\Proyectos\2008-doctorado-UNAL\Algebra-Lineal\GeneralMatrix\Example\bin\Debug\GeneralMatrix.dll
+C:\usuarios\ccobos\Proyectos\2008-doctorado-UNAL\Algebra-Lineal\GeneralMatrix\Example\bin\Debug\GeneralMatrix.pdb
+C:\usuarios\ccobos\Proyectos\2008-doctorado-UNAL\Algebra-Lineal\GeneralMatrix\Example\obj\Debug\Example.exe
+C:\usuarios\ccobos\Proyectos\2008-doctorado-UNAL\Algebra-Lineal\GeneralMatrix\Example\obj\Debug\Example.pdb
+C:\Users\Carlos Cobos\Documents\Actual\IHSK\2009-10-04 Aplicacion - MBAG-K  []\GeneralMatrix\Example\obj\Debug\Example.exe
+C:\Users\Carlos Cobos\Documents\Actual\IHSK\2009-10-04 Aplicacion - MBAG-K  []\GeneralMatrix\Example\obj\Debug\Example.pdb
+C:\Users\Carlos Cobos\Documents\Actual\IHSK\2009-10-04 Aplicacion - MBAG-K  []\GeneralMatrix\Example\bin\Debug\Example.exe
+C:\Users\Carlos Cobos\Documents\Actual\IHSK\2009-10-04 Aplicacion - MBAG-K  []\GeneralMatrix\Example\bin\Debug\Example.pdb
+C:\Users\Carlos Cobos\Documents\Actual\IHSK\2009-10-04 Aplicacion - MBAG-K  []\GeneralMatrix\Example\bin\Debug\GeneralMatrix.dll
+C:\Users\Carlos Cobos\Documents\Actual\IHSK\2009-10-04 Aplicacion - MBAG-K  []\GeneralMatrix\Example\bin\Debug\GeneralMatrix.pdb
+C:\Users\Carlos Cobos\Documents\Actual\IHSK\2009-10-04 Aplicacion - MBAG-K  []\GeneralMatrix\Example\obj\Debug\ResolveAssemblyReference.cache

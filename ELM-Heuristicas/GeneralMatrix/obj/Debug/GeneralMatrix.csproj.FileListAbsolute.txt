@@ -1,0 +1,101 @@
+C:\Users\Carlos\Desktop\mineria-de-datos\lex-rank-y-svd\GeneralMatrix\bin\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\mineria-de-datos\lex-rank-y-svd\GeneralMatrix\bin\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\mineria-de-datos\lex-rank-y-svd\GeneralMatrix\obj\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\mineria-de-datos\lex-rank-y-svd\GeneralMatrix\obj\Debug\GeneralMatrix.pdb
+C:\Users\STJKSTPW1\Documents\Visual Studio 2010\Projects\lsa\GeneralMatrix\bin\Debug\GeneralMatrix.dll
+C:\Users\STJKSTPW1\Documents\Visual Studio 2010\Projects\lsa\GeneralMatrix\bin\Debug\GeneralMatrix.pdb
+C:\Users\STJKSTPW1\Documents\Visual Studio 2010\Projects\lsa\GeneralMatrix\obj\Debug\GeneralMatrix.csprojResolveAssemblyReference.cache
+C:\Users\STJKSTPW1\Documents\Visual Studio 2010\Projects\lsa\GeneralMatrix\obj\Debug\GeneralMatrix.dll
+C:\Users\STJKSTPW1\Documents\Visual Studio 2010\Projects\lsa\GeneralMatrix\obj\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-y-LexRank-Integrados-ccobos\2015-02-04-Multi-Summarization-Integrado-LSA-LexRank-COBOS\GeneralMatrix\bin\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-y-LexRank-Integrados-ccobos\2015-02-04-Multi-Summarization-Integrado-LSA-LexRank-COBOS\GeneralMatrix\bin\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-y-LexRank-Integrados-ccobos\2015-02-04-Multi-Summarization-Integrado-LSA-LexRank-COBOS\GeneralMatrix\obj\Debug\GeneralMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\LSA-y-LexRank-Integrados-ccobos\2015-02-04-Multi-Summarization-Integrado-LSA-LexRank-COBOS\GeneralMatrix\obj\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-y-LexRank-Integrados-ccobos\2015-02-04-Multi-Summarization-Integrado-LSA-LexRank-COBOS\GeneralMatrix\obj\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-02-16-MultiSum\GeneralMatrix\bin\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-02-16-MultiSum\GeneralMatrix\bin\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-02-16-MultiSum\GeneralMatrix\obj\Debug\GeneralMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-02-16-MultiSum\GeneralMatrix\obj\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-02-16-MultiSum\GeneralMatrix\obj\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-02-22-MultiSum-CRRSCN\GeneralMatrix\bin\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-02-22-MultiSum-CRRSCN\GeneralMatrix\bin\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-02-22-MultiSum-CRRSCN\GeneralMatrix\obj\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-02-22-MultiSum-CRRSCN\GeneralMatrix\obj\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-03-06-MultiSum-CRRSCN\GeneralMatrix\bin\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-03-06-MultiSum-CRRSCN\GeneralMatrix\bin\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-03-06-MultiSum-CRRSCN\GeneralMatrix\obj\Debug\GeneralMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-03-06-MultiSum-CRRSCN\GeneralMatrix\obj\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-03-06-MultiSum-CRRSCN\GeneralMatrix\obj\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-03-26-MultiSum-CRRSCN\GeneralMatrix\bin\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-03-26-MultiSum-CRRSCN\GeneralMatrix\bin\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-03-26-MultiSum-CRRSCN\GeneralMatrix\obj\Debug\GeneralMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-03-26-MultiSum-CRRSCN\GeneralMatrix\obj\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-03-26-MultiSum-CRRSCN\GeneralMatrix\obj\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-01-MultiSum-CRRSCN\GeneralMatrix\bin\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-01-MultiSum-CRRSCN\GeneralMatrix\bin\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-01-MultiSum-CRRSCN\GeneralMatrix\obj\Debug\GeneralMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-01-MultiSum-CRRSCN\GeneralMatrix\obj\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-01-MultiSum-CRRSCN\GeneralMatrix\obj\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-02-MultiSum-CRRSCN\GeneralMatrix\bin\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-02-MultiSum-CRRSCN\GeneralMatrix\bin\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-02-MultiSum-CRRSCN\GeneralMatrix\obj\Debug\GeneralMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-02-MultiSum-CRRSCN\GeneralMatrix\obj\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-02-MultiSum-CRRSCN\GeneralMatrix\obj\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-07-MultiSum-CRRSCN\GeneralMatrix\bin\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-07-MultiSum-CRRSCN\GeneralMatrix\bin\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-07-MultiSum-CRRSCN\GeneralMatrix\obj\Debug\GeneralMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-07-MultiSum-CRRSCN\GeneralMatrix\obj\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-07-MultiSum-CRRSCN\GeneralMatrix\obj\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-07-MultiSum-CRC\GeneralMatrix\bin\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-07-MultiSum-CRC\GeneralMatrix\bin\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-07-MultiSum-CRC\GeneralMatrix\obj\Debug\GeneralMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-07-MultiSum-CRC\GeneralMatrix\obj\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-07-MultiSum-CRC\GeneralMatrix\obj\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-11-MultiSum-CRC\GeneralMatrix\bin\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-11-MultiSum-CRC\GeneralMatrix\bin\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-11-MultiSum-CRC\GeneralMatrix\obj\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-11-MultiSum-CRC\GeneralMatrix\obj\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-15-MultiSum-CRC\GeneralMatrix\bin\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-15-MultiSum-CRC\GeneralMatrix\bin\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-15-MultiSum-CRC\GeneralMatrix\obj\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-15-MultiSum-CRC\GeneralMatrix\obj\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-04-15-MultiSum-CRC\GeneralMatrix\obj\Debug\GeneralMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-06-03-MultiSum-CRC\GeneralMatrix\bin\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-06-03-MultiSum-CRC\GeneralMatrix\bin\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-06-03-MultiSum-CRC\GeneralMatrix\obj\Debug\GeneralMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-06-03-MultiSum-CRC\GeneralMatrix\obj\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-06-03-MultiSum-CRC\GeneralMatrix\obj\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-06-04-MultiSum-CRC\GeneralMatrix\bin\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-06-04-MultiSum-CRC\GeneralMatrix\bin\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-06-04-MultiSum-CRC\GeneralMatrix\obj\Debug\GeneralMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-06-04-MultiSum-CRC\GeneralMatrix\obj\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-06-04-MultiSum-CRC\GeneralMatrix\obj\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-06-28-MultiSum-CRC-VS.NET-2013\GeneralMatrix\bin\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-06-28-MultiSum-CRC-VS.NET-2013\GeneralMatrix\bin\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-06-28-MultiSum-CRC-VS.NET-2013\GeneralMatrix\obj\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-06-28-MultiSum-CRC-VS.NET-2013\GeneralMatrix\obj\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-06-28-MultiSum-CRC-VS.NET-2013\GeneralMatrix\obj\Debug\GeneralMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-07-12-MultiSum-CRC-VS.NET-2013\GeneralMatrix\bin\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-07-12-MultiSum-CRC-VS.NET-2013\GeneralMatrix\bin\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-07-12-MultiSum-CRC-VS.NET-2013\GeneralMatrix\obj\Debug\GeneralMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-07-12-MultiSum-CRC-VS.NET-2013\GeneralMatrix\obj\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2015-07-12-MultiSum-CRC-VS.NET-2013\GeneralMatrix\obj\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2016-04-10-MultiSum-CRC-VS.NET-2013-con-SA-y-FSP\GeneralMatrix\bin\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2016-04-10-MultiSum-CRC-VS.NET-2013-con-SA-y-FSP\GeneralMatrix\bin\Debug\GeneralMatrix.pdb
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2016-04-10-MultiSum-CRC-VS.NET-2013-con-SA-y-FSP\GeneralMatrix\obj\Debug\GeneralMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2016-04-10-MultiSum-CRC-VS.NET-2013-con-SA-y-FSP\GeneralMatrix\obj\Debug\GeneralMatrix.dll
+C:\Users\Carlos\Desktop\LSA-LexRank-Memetico\2016-04-10-MultiSum-CRC-VS.NET-2013-con-SA-y-FSP\GeneralMatrix\obj\Debug\GeneralMatrix.pdb
+D:\Google Drive\ccobos\Escritorio\LSA-LexRank-Memetico\2016-04-29-MultiSum-CRC-VS.NET-2013-con-SA-y-FSP\GeneralMatrix\bin\Debug\GeneralMatrix.dll
+D:\Google Drive\ccobos\Escritorio\LSA-LexRank-Memetico\2016-04-29-MultiSum-CRC-VS.NET-2013-con-SA-y-FSP\GeneralMatrix\bin\Debug\GeneralMatrix.pdb
+D:\Google Drive\ccobos\Escritorio\LSA-LexRank-Memetico\2016-04-29-MultiSum-CRC-VS.NET-2013-con-SA-y-FSP\GeneralMatrix\obj\Debug\GeneralMatrix.dll
+D:\Google Drive\ccobos\Escritorio\LSA-LexRank-Memetico\2016-04-29-MultiSum-CRC-VS.NET-2013-con-SA-y-FSP\GeneralMatrix\obj\Debug\GeneralMatrix.pdb
+C:\Users\cobos\Desktop\conversion\GeneralMatrix\bin\Debug\GeneralMatrix.dll
+C:\Users\cobos\Desktop\conversion\GeneralMatrix\bin\Debug\GeneralMatrix.pdb
+C:\Users\cobos\Desktop\conversion\GeneralMatrix\obj\Debug\GeneralMatrix.csprojResolveAssemblyReference.cache
+C:\Users\cobos\Desktop\conversion\GeneralMatrix\obj\Debug\GeneralMatrix.dll
+C:\Users\cobos\Desktop\conversion\GeneralMatrix\obj\Debug\GeneralMatrix.pdb
+D:\Google Drive\ccobos\Proyectos\2017-TG-Daniel-Pusil-MELM\ELM-Heuristicas\Heuristicas-ELM\GeneralMatrix\bin\Debug\GeneralMatrix.dll
+D:\Google Drive\ccobos\Proyectos\2017-TG-Daniel-Pusil-MELM\ELM-Heuristicas\Heuristicas-ELM\GeneralMatrix\bin\Debug\GeneralMatrix.pdb
+D:\Google Drive\ccobos\Proyectos\2017-TG-Daniel-Pusil-MELM\ELM-Heuristicas\Heuristicas-ELM\GeneralMatrix\obj\Debug\GeneralMatrix.dll
+D:\Google Drive\ccobos\Proyectos\2017-TG-Daniel-Pusil-MELM\ELM-Heuristicas\Heuristicas-ELM\GeneralMatrix\obj\Debug\GeneralMatrix.pdb
+D:\Google Drive\ccobos\Proyectos\2017-TG-Daniel-Pusil-MELM\ELM-Heuristicas\Heuristicas-ELM\GeneralMatrix\obj\Debug\GeneralMatrix.csprojResolveAssemblyReference.cache

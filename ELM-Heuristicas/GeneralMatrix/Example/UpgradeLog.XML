@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Example">
+</Property><Property Name="Archivo de la solución" Value="C:\usuarios\ccobos\Proyectos\2008-doctorado-UNAL\Algebra-Lineal\GeneralMatrix\Example\Example.sln">
+</Property><Property Name="Date" Value="Martes, 15 de Julio de 2008">
+</Property><Property Name="Time" Value="15:26 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="Example" Source="Example.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Example" Source="Example.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Example.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="Example.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Example" Source="Example.csproj" Description="Búsqueda completa: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

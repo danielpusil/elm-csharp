@@ -1,0 +1,41 @@
+<Configuration>
+  <SharedSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </SharedSolutionDisabledTemplatesManager>
+  <UserSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </UserSolutionDisabledTemplatesManager>
+  <FileStructureView>
+    <AutoScrollToSource>False</AutoScrollToSource>
+    <TrackCaretLocation>False</TrackCaretLocation>
+  </FileStructureView>
+  <ReFormatCode>
+    <ReorderMembers>False</ReorderMembers>
+    <OptimizeUsings>False</OptimizeUsings>
+    <RemoveRedundantThis>False</RemoveRedundantThis>
+    <ShortenReferences>False</ShortenReferences>
+  </ReFormatCode>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <EditorManager>
+    <RecentFiles>
+      <File id="6ABA6EAD-58B0-4FCE-A97F-BC884281A170/f:SingularValueDecomposition.cs" caret="13558" scrollPosition="0|581" />
+      <File id="A5DFBD64-FCAA-4637-977F-C20684A007B4/f:Form1.cs" caret="1863" scrollPosition="0|26" />
+      <File id="11D35D63-C253-498E-930D-43F719042538/f:MagicSquareExample.cs" caret="4113" scrollPosition="0|152" />
+    </RecentFiles>
+  </EditorManager>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="ReadKey" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DotNetMatrix.SingularValueDecomposition">
+      <Item value="SingularValues" priority="0" />
+      <Item value="GetU" priority="0" />
+      <Item value="S" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DotNetMatrix.GeneralMatrix">
+      <Item value="Array" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
